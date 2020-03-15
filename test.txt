@@ -5,3 +5,4 @@ Yes it isn't.
 This is a line addded in master after editing something in feature3.
 This is a feature for now.
 This is a modification made in feature2.
+This is a modification made in feature3.

@@ -1,4 +1,5 @@
 This is a test.
+This is a line added in master after editing something in feature2.
 Or is it?
 Yes it isn't.
 This is a feature for now.
